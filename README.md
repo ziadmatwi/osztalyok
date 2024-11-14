@@ -1,1 +1,1 @@
-# osztalyok
+# Osztalyok hasznalata
